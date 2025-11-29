@@ -16,13 +16,6 @@ Hello World!! Me chamo Fernanda de Souza Fernandes, tenho 18 anos e moro em Goi�
 </div>
 
 ###
-📊 Estatísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nanda-Fernandes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Nanda-Fernandes&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
 
 💬 Conecte-se comigo
 ###
