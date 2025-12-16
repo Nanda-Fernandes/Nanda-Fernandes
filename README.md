@@ -1,31 +1,79 @@
-# 👩🏻‍💻 Nanda Fernandes
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
 
-**`Dev FullStack em Formação`**
+<div align="center">
+  <samp>
+    <b>
+      Hello World!
+      <br>
+      Olá, meu nome é Fernanda
+      <br>
+</div>
+      
+<br>
+      
+<div align="center">
+  <img src="https://imgur.com/zeuHIk9.gif" width="200">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/meow_♡-black" />
+</div>
 
-Hello World!! Me chamo Fernanda de Souza Fernandes, tenho 18 anos e moro em Goiânia-GO. Sou estudante de Bacharelado em Ciência da Computação, com previsão de conclusão em Dezembro de 2028. Tenho interesse em desenvolvimento fullstack e estou construindo meu portfólio com projetos que mostram minha evolução na área de tecnologia.
+<br>
+<details align="center">
+    <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+    </summary>
+    <br>
+    <br>
+  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nanda-Fernandes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nanda-Fernandes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=true&order=2" height="160" alt="languages graph"  />
+</div>
 
-🤖 Linguagens e Tecnologias
-<div align="left">
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  />
 </div>
 
 ###
 
-💬 Conecte-se comigo
-###
-<img align="right" height="150" src="https://i.pinimg.com/736x/9f/46/b1/9f46b1bc0c6d3246c047ebe470b2a8e7.jpg"  />
+<br>
 
-###
+<div align="center">
 
-<div align="left">
-  <a href="https://www.instagram.com/nanda_fernnands/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <a href="https://www.linkedin.com/in/nanda-fernandes" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:nascrafaela08@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/nanda_fernnands)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/nanda-fernandes)
+
 </div>
 
-###
+<div align="center">
+
+<p align="center">
+      <samp>
+        ♡
+      </samp>
+  </p>
+
+</div>
+
+##
+
+</details>
+
+<br>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
